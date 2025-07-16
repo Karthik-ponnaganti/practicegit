@@ -1,3 +1,4 @@
 then
 connect spring boot
 to the my sql
+and build the chatbot using ollma
