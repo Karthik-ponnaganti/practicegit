@@ -1,1 +1,4 @@
+llama3 is using
+the to seach like chatbot
+i want to do that
 after create a ollama in that llama is create
